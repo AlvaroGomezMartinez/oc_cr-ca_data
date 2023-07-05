@@ -1,0 +1,11 @@
+﻿#,"Student Name (Last, First)",Student ID,Course Name,Course Date Start,Course Date Credit Earned,Course Grade Average,TEACHER OF RECORD,hours on course if CA- MT completion,LOC link,MT,NOTES
+1,"LASTNAME1, STUDENT1",123456,ALG 1 B CR,6/12/23,6/14/23,70,L.J.,,https://www.youtube.com/watch?v=2eElfBgqJLY,,
+2,"LASTNAME2, STUDENT2",234567,COMM APP CR,7/3/23,7/4/23,70,A.G.,,https://www.youtube.com/watch?v=2eElfBgqJLY,,
+3,"LASTNAME2, STUDENT2",234567,ENG 2 A CR,6/12/23,6/21/23,70,Alonzo,,https://www.youtube.com/watch?v=2eElfBgqJLY,ag,notes
+4,"LASTNAME2, STUDENT2",234567,ENG 2 B CR,6/21/23,,,Alonzo,,https://www.youtube.com/watch?v=2eElfBgqJLY,,
+5,"LASTNAME3, STUDENT3",345678,ALG 1 B CR,7/3/23,,,,,https://www.youtube.com/watch?v=2eElfBgqJLY,,
+6,"LASTNAME4, STUDENT4",456789,ALG 1 B CR,7/3/23,,,,,https://www.youtube.com/watch?v=2eElfBgqJLY,,
+7,"LASTNAME5, STUDENT5",567890,ENGLISH 2-B (MP3) CP,6/12/23,6/14/23,70,M.A,15,https://www.youtube.com/watch?v=2eElfBgqJLY,ag,sample
+8,"LASTNAME6, STUDENT6",678901,PHYSICS A CR,5/30/23,6/14/23,70,K.B.,,https://www.youtube.com/watch?v=2eElfBgqJLY,,
+9,"LASTNAME7, STUDENT7",789012,SPANISH 2-B (MP3) CP,6/12/23,6/13/23,70,M.T.,,https://www.youtube.com/watch?v=2eElfBgqJLY,ag,sample
+10,"LASTNAME8, STUDENT8",890123,GEOM A CR,6/12/23,6/14/23,70,M.Gomez,,https://www.youtube.com/watch?v=2eElfBgqJLY,ag,notes
